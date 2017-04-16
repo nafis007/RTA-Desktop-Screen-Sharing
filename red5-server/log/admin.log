@@ -1,0 +1,4 @@
+2017-04-16 08:11:47,719 [0.0.0.0-startStop-1] INFO  ROOT - Starting up context: admin
+2017-04-16 08:11:49,601 [Loader:/admin] DEBUG org.red5.webapps.admin.Application - start: Scope [name=admin, path=/default, type=APPLICATION, autoStart=true, creationTime=1492308709599, depth=1, enabled=true, running=false]
+2017-04-16 08:11:49,602 [Loader:/admin] INFO  org.red5.webapps.admin.Application - Admin application started
+2017-04-16 08:11:49,602 [Loader:/admin] INFO  org.red5.webapps.admin.Application - Available auth providers: 1
