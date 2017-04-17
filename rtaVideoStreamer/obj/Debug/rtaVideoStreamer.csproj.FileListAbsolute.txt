@@ -18,3 +18,5 @@ C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaVideoStreamer\
 C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.Form1.resources
 C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.Properties.Resources.resources
 C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\RTA-Desktop-Screen-Sharing\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.exe
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\RTA-Desktop-Screen-Sharing\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.pdb
